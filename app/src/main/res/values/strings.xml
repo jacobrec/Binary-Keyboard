@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Binary Keyboard</string>
+    <string name="bin_ime">Binary IME</string>
+    <string name="subtype_en_US">English (US)</string>
+</resources>
